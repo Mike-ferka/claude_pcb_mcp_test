@@ -1,0 +1,13 @@
+﻿# KiCad backups, locks, caches
+*-backups/
+*.lck
+fp-info-cache
+_autosave-*
+*.bak
+~*
+\#auto_saved_files\#
+*.kicad_prl
+
+# Manufacturing outputs (regenerate them instead of tracking)
+gerbers/
+*.zip
