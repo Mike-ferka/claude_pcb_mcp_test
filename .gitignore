@@ -11,3 +11,4 @@ _autosave-*
 # Manufacturing outputs (regenerate them instead of tracking)
 gerbers/
 *.zip
+.mcp-backups/
