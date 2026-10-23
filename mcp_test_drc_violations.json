@@ -1,0 +1,12 @@
+{
+  "board": "C:\\Users\\ferka\\kicad\\mcp_test\\mcp_test.kicad_pcb",
+  "timestamp": "2026-10-22T21:35:52",
+  "total_violations": 0,
+  "violation_counts": {},
+  "severity_counts": {
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "violations": []
+}

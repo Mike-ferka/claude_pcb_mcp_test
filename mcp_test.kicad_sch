@@ -1445,7 +1445,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
 			(at 63.5 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -1478,6 +1478,12 @@
 				)
 			)
 		)
+    (property "MPN" "USB4125-GF-A-0190" (at 59.69 100.33 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "GCT" (at 59.69 100.33 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "A12"
 			(uuid "0dd9633f-1c49-4073-bc70-2bc9b54cece0")
 		)
